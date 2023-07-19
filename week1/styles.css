@@ -1,0 +1,12 @@
+body{
+    background-color: ivory;
+    text-align: center;
+}
+#smiley{
+    -webkit-text-fill-color: gold;
+}
+#demobutton{
+    background-color: blue;
+    -webkit-text-fill-color:white;
+    animation: alternate;
+}
